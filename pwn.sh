@@ -1,3 +1,3 @@
 # /bin/bash
 
-echo "ls" > test2.txt
+echo "cat ../flag.txt" > ./watersensor
